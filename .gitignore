@@ -1,0 +1,7 @@
+.env
+.env.*
+*.log
+node_modules/
+__pycache__/
+.DS_Store
+AI퀴즈_학습기록_*.json
